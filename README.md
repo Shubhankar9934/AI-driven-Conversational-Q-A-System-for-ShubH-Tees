@@ -1,4 +1,4 @@
-# AI-driven-Conversational-SQL-Intraction-System-for-ShubH-Tees
+# AI-Driven-Conversational-SQL-Interaction-System-for-ShubH-Tees-Retail-Shop
 
 ## Overview
 This project utilizes the LangChain framework to create a system for interacting with a MySQL database using a few-shot learning approach. It incorporates a language model, database utility, and prompts for generating SQL queries based on user questions.
